@@ -1,79 +1,79 @@
 const data = {
   words: [
     {
-      word: "grape",
+      word: "anggur",
       type: "food",
     },
     {
-      word: "coconut",
+      word: "kelapa",
       type: "food",
     },
     {
-      word: "strawberry",
+      word: "stroberi",
       type: "food",
     },
     {
-      word: "pineapple",
+      word: "nanas",
       type: "food",
     },
     {
-      word: "watermelon",
+      word: "semangka",
       type: "food",
     },
     {
-      word: "orange",
+      word: "jeruk",
       type: "food",
     },
     {
-      word: "noodles",
+      word: "mie",
       type: "food",
     },
     {
-      word: "rice",
+      word: "nasi",
       type: "food",
     },
     {
-      word: "hamburger",
+      word: "kentang goreng",
       type: "food",
     },
     {
-      word: "soup",
+      word: "sayur",
       type: "food",
     },
     {
-      word: "lion",
+      word: "singa",
       type: "animal",
     },
     {
-      word: "tiger",
+      word: "harimau",
       type: "animal",
     },
     {
-      word: "giraffe",
+      word: "kuda",
       type: "animal",
     },
     {
-      word: "leopard",
+      word: "kucing",
       type: "animal",
     },
     {
-      word: "flamingo",
+      word: "gagak",
       type: "animal",
     },
     {
-      word: "cat",
+      word: "anjing",
       type: "animal",
     },
     {
-      word: "crocodile",
+      word: "buaya",
       type: "animal",
     },
     {
-      word: "snake",
+      word: "ular",
       type: "animal",
     },
     {
-      word: "elephant",
+      word: "gajah",
       type: "animal",
     },
     {
@@ -81,59 +81,59 @@ const data = {
       type: "animal",
     },
     {
-      word: "cinema",
+      word: "bioskop",
       type: "place",
     },
     {
-      word: "hospital",
+      word: "rumah sakit",
       type: "place",
     },
     {
-      word: "factory",
+      word: "pabrik",
       type: "place",
     },
     {
-      word: "school",
+      word: "sekolah",
       type: "place",
     },
     {
-      word: "supermarket",
+      word: "pasar",
       type: "place",
     },
     {
-      word: "bathroom",
+      word: "kamar mandi",
       type: "place",
     },
     {
-      word: "library",
+      word: "perpustakaan",
       type: "place",
     },
     {
-      word: "bedroom",
+      word: "kamar tidur",
       type: "place",
     },
     {
-      word: "airport",
+      word: "bandara",
       type: "place",
     },
     {
-      word: "restaurant",
+      word: "restoran",
       type: "place",
     },
     {
-      word: "aircraft",
+      word: "pesawat",
       type: "transportation",
     },
     {
-      word: "train",
+      word: "kereta",
       type: "transportation",
     },
     {
-      word: "Ferry",
+      word: "kapal ferry",
       type: "transportation",
     },
     {
-      word: "bicycle",
+      word: "sepeda",
       type: "transportation",
     },
     {
@@ -141,7 +141,7 @@ const data = {
       type: "transportation",
     },
     {
-      word: "car",
+      word: "mobil",
       type: "transportation",
     },
     {
@@ -149,7 +149,7 @@ const data = {
       type: "transportation",
     },
     {
-      word: "motorcycle",
+      word: "motor",
       type: "transportation",
     },
     {
@@ -157,15 +157,11 @@ const data = {
       type: "transportation",
     },
     {
-      word: "truck",
+      word: "truk",
       type: "transportation",
     },
     {
-      word: "quarrel",
-      type: "action",
-    },
-    {
-      word: "fight",
+      word: "berantem",
       type: "action",
     },
     {
