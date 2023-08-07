@@ -14,7 +14,10 @@ import {
   Redirect
 } from "react-router-dom";
 
-const socket = io('wss://dgg-backend.onrender.com')
+const wsProtocol = process.env.NODE_ENV === 'production' ? 'wss' : 'ws';
+const BACKEND_HOST = `${wsProtocol}://${process.env.REACT_APP_BACKEND_HOST || 'localhost:8000'}`;
+
+const socket = io(BACKEND_HOST)
 
 function App() {
   const [userName, setUserName] = React.useState(localStorage.getItem('userName'))
