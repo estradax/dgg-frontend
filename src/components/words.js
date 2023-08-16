@@ -1,7 +1,7 @@
 const data = {
   words: [
     {
-      word: "anggur",
+      word: "bendera indonesia",
       type: "food",
     },
     {
@@ -9,87 +9,87 @@ const data = {
       type: "food",
     },
     {
-      word: "stroberi",
+      word: "pahlawan",
       type: "food",
     },
     {
-      word: "nanas",
+      word: "bendera jepang",
       type: "food",
     },
     {
-      word: "semangka",
+      word: "bendera belanda",
       type: "food",
     },
     {
-      word: "jeruk",
+      word: "panjat pinang",
       type: "food",
     },
     {
-      word: "mie",
+      word: "balap bakiak",
       type: "food",
     },
     {
-      word: "nasi",
+      word: "lomba futsal",
       type: "food",
     },
     {
-      word: "kentang goreng",
+      word: "balap karung",
       type: "food",
     },
     {
-      word: "sayur",
+      word: "estafet kelereng",
       type: "food",
     },
     {
-      word: "singa",
+      word: "estafet air",
       type: "animal",
     },
     {
-      word: "harimau",
+      word: "sepak bola",
       type: "animal",
     },
     {
-      word: "kuda",
+      word: "merias wajah",
       type: "animal",
     },
     {
-      word: "kucing",
+      word: "perang bantal",
       type: "animal",
     },
     {
-      word: "gagak",
+      word: "makan kerupuk",
       type: "animal",
     },
     {
-      word: "anjing",
+      word: "joget balon",
       type: "animal",
     },
     {
-      word: "buaya",
+      word: "tarik tambang",
       type: "animal",
     },
     {
-      word: "ular",
+      word: "mobile legends",
       type: "animal",
     },
     {
-      word: "gajah",
+      word: "pak jokowi",
       type: "animal",
     },
     {
-      word: "panda",
+      word: "bernyayi",
       type: "animal",
     },
     {
-      word: "bioskop",
+      word: "sendok,
       type: "place",
     },
     {
-      word: "rumah sakit",
+      word: "tank baja",
       type: "place",
     },
     {
-      word: "pabrik",
+      word: "garpu",
       type: "place",
     },
     {
@@ -97,11 +97,11 @@ const data = {
       type: "place",
     },
     {
-      word: "pasar",
+      word: "upacara",
       type: "place",
     },
     {
-      word: "kamar mandi",
+      word: "taman bermain yang ada bendera indonesianya",
       type: "place",
     },
     {
@@ -109,7 +109,7 @@ const data = {
       type: "place",
     },
     {
-      word: "kamar tidur",
+      word: "kamar tidur ada poster killua",
       type: "place",
     },
     {
@@ -161,39 +161,39 @@ const data = {
       type: "transportation",
     },
     {
-      word: "berantem",
+      word: "panjat pinang",
       type: "action",
     },
     {
-      word: "embrace",
+      word: "jalan di bambu",
       type: "action",
     },
     {
-      word: "smoking",
+      word: "bambu",
       type: "action",
     },
     {
-      word: "walk",
+      word: "perang bantal",
       type: "action",
     },
     {
-      word: "dancing",
+      word: "baju partai",
       type: "action",
     },
     {
-      word: "fitness",
+      word: "makan",
       type: "action",
     },
     {
-      word: "drink",
+      word: "minum",
       type: "action",
     },
     {
-      word: "sing",
+      word: "panjat pinang",
       type: "action",
     },
     {
-      word: "boxing",
+      word: "lomba pecahin balon",
       type: "action",
     },
   ]
