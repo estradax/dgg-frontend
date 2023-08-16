@@ -81,7 +81,7 @@ const data = {
       type: "animal",
     },
     {
-      word: "sendok,
+      word: "sendok",
       type: "place",
     },
     {
